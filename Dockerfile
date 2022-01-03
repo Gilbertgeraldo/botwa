@@ -38,4 +38,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["pm2-runtime", "main.js"]`
+CMD ["pm2-runtime", "Gilbert.js"]`
